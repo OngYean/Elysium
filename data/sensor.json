@@ -1,0 +1,37 @@
+{
+  "sensors": [
+    {
+      "name": "Pulse oximeter SpO2",
+      "desc": "A standard ASA monitor that measures oxygenation\n95% or higher. If the SpO2 level drops to 94% or below, the patient should be assessed immediately to identify and treat the cause. An SpO2 level of 90% or less is a clinical emergency and should be treated urgently.",
+      "unit": "%"
+    },
+    {
+      "name": "Electrocardiogram (ECG)",
+      "desc": "A standard ASA monitor that measures the heart's electrical activity.\nHeart rate: 60-100 beats per minute \nP wave: 80 milliseconds\nPR interval: 120–200 milliseconds\nRR interval: 0.6–1.2 seconds"
+    },
+    {
+      "name": "Noninvasive blood pressure (NIBP) device",
+      "desc": "A standard ASA monitor that measures blood pressure.\nPrimary care: Systolic BP less than 160 mmHg and diastolic BP less than 100 mmHg\nSecondary care: Systolic BP less than 180 mmHg and diastolic BP less than 110 mmHg"
+    },
+    {
+      "name": "Temperature monitor",
+      "desc": "A standard ASA monitor that measures body temperature normal interthreshold range of 36.7-37.1°C (99.9-98.8°F)"
+    },
+    {
+      "name": "End-tidal carbon dioxide monitor",
+      "desc": "Measures carbon dioxide levels. The normal range for carbon dioxide (CO2) monitoring in anesthesiology is 35-45 millimeters of mercury (mmHg) or 5–6% CO2."
+    },
+    {
+      "name": "Airway pressure monitor",
+      "desc": "Measures airway pressure.\nCondition:\nTypical mean airway pressure (cmH2O)\nNormal lungs: 5-10\nAirflow obstruction: 10-20\nARDS: 15-30"
+    },
+    {
+      "name": "Intrauterine Pressure Catheter (IUPC)",
+      "desc": "Resting tone: Resting tone should be no more than 25 mm Hg.\nContraction intensity: The normal range for contraction intensity is 25-75 mm Hg.\nPeak IUP: The normal value for peak IUP is 40-80 mm Hg."
+    },
+    {
+      "name": "Fetal electrocardiogram (ECG)",
+      "desc": ""
+    }
+  ]
+}

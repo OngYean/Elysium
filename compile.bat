@@ -1,0 +1,1 @@
+pyinstaller "./src/__main__.py" --name Elysium -w
